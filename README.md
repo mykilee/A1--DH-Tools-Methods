@@ -93,6 +93,6 @@ Description: Results from statistical analyses, such as ANOVA or regression, exp
 
 Potential tools and methods that could be used include:
 
-- Tool 1: [Mention Tool 1, if applicable]
-- Methodology: [Mention Methodology, if applicable]
+- Tool 1: [Statistical Analysis Software:Tools: SPSS, R, Python (with statistical libraries);Description:Statistical analysis tools assist in exploring correlations between different music types and specific emotional states, providing quantitative insights into the significance of observed patterns.]
+- Tool 2: [Survey and Questionnaire Tools:Tools: Google Forms, SurveyMonkey, Qualtrics;Description: These online survey platforms allow you to create and distribute surveys or questionnaires to collect self-reported emotional data from participants.]
 
