@@ -48,3 +48,37 @@ This repository is dedicated to a research project focused on [The influence of 
 ## Topic selection 
 
 For the upcoming weeks, the chosen topic for exploration is [Does different genres of music, such as pop, classical, and rock, have varying effects on an individual's overall mood?].
+
+## Context
+
+In the existing research literature, [cite relevant theoretical, interpretative, and/or empirical studies] that make testable claims related to the chosen topic.
+
+## Research Question (RQ) and/or Hypothesis
+
+**Research Question:**
+[Formulate your research question here.]
+
+**Hypothesis:**
+[Formulate your hypothesis here.]
+
+## Exploration and Methods
+
+To explore the proposed topic and address the research questions, the following methods and tools will be considered:
+
+- Method 1: [Describe Method 1]
+- Method 2: [Describe Method 2]
+
+## Data Requirements
+
+To answer the research questions and test the hypothesis, the following types of data will be needed:
+
+- Data Type 1: [Describe Data Type 1]
+- Data Type 2: [Describe Data Type 2]
+
+## Tools and Methods
+
+Potential tools and methods that could be used include:
+
+- Tool 1: [Mention Tool 1, if applicable]
+- Methodology: [Mention Methodology, if applicable]
+
