@@ -73,13 +73,21 @@ To explore the proposed topic and address the research questions, the following 
 
 - Method 1: [Cultural and Demographic Analysis:Consider the influence of cultural and demographic factors on emotional responses to different music types;Stratify participants based on cultural background, age, or other relevant demographics for subgroup analysis.]
 - Method 2: [Content Analysis:Perform content analysis of the lyrics, rhythm, and other musical elements to identify potential contributors to emotional responses;Relate the content analysis findings to participants' reported emotions.]
+- Method 3: [Statistical Analysis:Employ statistical methods, such as analysis of variance (ANOVA) or regression analysis, to analyze the collected data;Explore correlations between music types and specific emotional states.]
 
 ## Data Requirements
 
 To answer the research questions and test the hypothesis, the following types of data will be needed:
 
-- Data Type 1: [Describe Data Type 1]
-- Data Type 2: [Describe Data Type 2]
+- Data Type 1: [Demographic Data:
+Type: Qualitative and Quantitative
+Description: Information about participants' demographics, including age, gender, cultural background, and any other relevant factors that might influence emotional responses to music. This data allows for subgroup analysis based on demographic characteristics.]
+- Data Type 2: [Content Analysis Data:
+Type: Qualitative
+Description: Data resulting from content analysis of music elements, such as lyrics and rhythm, to identify patterns or themes that may contribute to emotional responses. This qualitative data helps interpret the emotional impact of specific musical features.]
+- Data Type 3: [Statistical Analysis Results:
+Type: Quantitative
+Description: Results from statistical analyses, such as ANOVA or regression, exploring relationships between different music types and specific emotional states. This data helps quantify the significance of observed patterns.]
 
 ## Tools and Methods
 
