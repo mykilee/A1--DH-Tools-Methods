@@ -51,22 +51,28 @@ For the upcoming weeks, the chosen topic for exploration is [Does different genr
 
 ## Context
 
-In the existing research literature, [cite relevant theoretical, interpretative, and/or empirical studies] that make testable claims related to the chosen topic.
+1.Rucsanda, M. (2015). The effect of various music genres on the adolescents’ emotional state. Bulletin of the Transilvania University of Braşov, Series VIII: Performing Arts, 8(2-Suppl.), 167-176.
+
+2.Stulov, I. H. (2019). THE IMPACT OF MUSIC ON PEOPLE'S FEELINGS AND EMOTIONS. In Академическая наука-проблемы и достижения (pp. 34-42).
+
+3.Burger, B., Saarikallio, S., Luck, G., Thompson, M. R., & Toiviainen, P. (2012, July). Emotions move us: Basic emotions in music influence people’s movement to music. In Proceedings of the 12th international conference on music perception and cognition and 8th triennial conference of the european society for the cognitive sciences of music (pp. 177-182). Thessaloniki, Greece: Aristotle University of Thessaloniki.
+
+4.Bugdol, M. N., Bugdol, M. D., & Smreczak, T. (2018). The influence of music genres on human emotionality. In Innovations in Biomedical Engineering (pp. 107-114). Springer International Publishing.
 
 ## Research Question (RQ) and/or Hypothesis
 
 **Research Question:**
-[Formulate your research question here.]
+[Does different genres of music, such as pop, classical, and rock, have varying effects on an individual's overall mood?]
 
 **Hypothesis:**
-[Formulate your hypothesis here.]
+[Different types of music, such as pop, classical, and rock, significantly impact individuals' overall emotions in distinct ways.]
 
 ## Exploration and Methods
 
 To explore the proposed topic and address the research questions, the following methods and tools will be considered:
 
-- Method 1: [Describe Method 1]
-- Method 2: [Describe Method 2]
+- Method 1: [Cultural and Demographic Analysis:Consider the influence of cultural and demographic factors on emotional responses to different music types;Stratify participants based on cultural background, age, or other relevant demographics for subgroup analysis.]
+- Method 2: [Content Analysis:Perform content analysis of the lyrics, rhythm, and other musical elements to identify potential contributors to emotional responses;Relate the content analysis findings to participants' reported emotions.]
 
 ## Data Requirements
 
