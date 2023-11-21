@@ -43,3 +43,8 @@ h/t to [Jon Harmon](https://github.com/rfordatascience/tidytuesday/issues/160) &
 # Research Project
 
 This repository is dedicated to a research project focused on [The influence of music genres on people's emotions.]. The aim is to [provide insights into mental health: Understanding how different music genres influence emotions can offer insights into mental health and well-being. This could be crucial for developing music therapy or mental health intervention measures.].
+
+
+## Topic selection 
+
+For the upcoming weeks, the chosen topic for exploration is [Does different genres of music, such as pop, classical, and rock, have varying effects on an individual's overall mood?].
