@@ -59,3 +59,7 @@ spotify_songs <- tuesdata$spotify_songs
 |valence                  |double    | A measure from 0.0 to 1.0 describing the musical positiveness conveyed by a track. Tracks with high valence sound more positive (e.g. happy, cheerful, euphoric), while tracks with low valence sound more negative (e.g. sad, depressed, angry). |
 |tempo                    |double    | The overall estimated tempo of a track in beats per minute (BPM). In musical terminology, tempo is the speed or pace of a given piece and derives directly from the average beat duration. |
 |duration_ms              |double    | Duration of song in milliseconds |
+
+# Research Project
+
+This repository is dedicated to a research project focused on [Your Chosen Topic]. The aim is to [briefly describe the purpose of your research].
