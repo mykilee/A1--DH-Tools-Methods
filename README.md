@@ -1,6 +1,5 @@
 # A1--DH-Tools-Methods
 assignment 1 for DH: Tools and Methods 
-![@neonbrand via Unsplash - person holding space gray iPhone 6](https://images.unsplash.com/photo-1495434942214-9b525bba74e9?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80)
 
 # Spotify Songs
 
@@ -10,26 +9,7 @@ The data this week comes from Spotify via the [`spotifyr` package](https://www.r
 
 h/t to [Jon Harmon](https://github.com/rfordatascience/tidytuesday/issues/160) & [Neal Grantham](https://twitter.com/nsgrantham/status/1213190975113199616).
 
-### Get the data here
 
-```{r}
-# Get the Data
-
-spotify_songs <- readr::read_csv('https://raw.githubusercontent.com/rfordatascience/tidytuesday/master/data/2020/2020-01-21/spotify_songs.csv')
-
-# Or read in with tidytuesdayR package (https://github.com/thebioengineer/tidytuesdayR)
-# PLEASE NOTE TO USE 2020 DATA YOU NEED TO UPDATE tidytuesdayR from GitHub
-
-# Either ISO-8601 date or year/week works!
-
-# Install via devtools::install_github("thebioengineer/tidytuesdayR")
-
-tuesdata <- tidytuesdayR::tt_load('2020-01-21') 
-tuesdata <- tidytuesdayR::tt_load(2020, week = 4)
-
-
-spotify_songs <- tuesdata$spotify_songs
-```
 ### Data Dictionary
 
 # `spotify_songs.csv`
